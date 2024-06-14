@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MouseColorIndicator": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
